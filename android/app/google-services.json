@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4763269321",
+    "project_id": "blocauthtest-15ec4",
+    "storage_bucket": "blocauthtest-15ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4763269321:android:20216ebbdf9764e390f518",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4763269321-s3arj67prnuor1oo47nagngmbn7qj2m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqsd9HlPPTOJa9sqStAv_mEm2TyRRECY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4763269321-s3arj67prnuor1oo47nagngmbn7qj2m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
